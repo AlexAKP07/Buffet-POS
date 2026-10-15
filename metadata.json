@@ -1,0 +1,6 @@
+{
+  "name": "Buffet POS Enterprise Architecture & POS System",
+  "description": "Enterprise-grade All-You-Can-Eat (Buffet) Restaurant POS System & Full-Stack Architecture Specification with Lao QR/BCEL OnePay, KDS, Multi-branch, and Real-time Floor Plan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
